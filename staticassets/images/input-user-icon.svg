@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>input-user-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="input-user-icon" fill="#B0B9CB" fill-rule="nonzero">
+            <path d="M32,32 C32,32.5522847 31.5522847,33 31,33 C30.4477153,33 30,32.5522847 30,32 L30,30.3333333 C30,29.0558762 28.89133,28 27.5,28 L20.5,28 C19.10867,28 18,29.0558762 18,30.3333333 L18,32 C18,32.5522847 17.5522847,33 17,33 C16.4477153,33 16,32.5522847 16,32 L16,30.3333333 C16,27.9288921 18.0253367,26 20.5,26 L27.5,26 C29.9746633,26 32,27.9288921 32,30.3333333 L32,32 Z M24,24 C21.790861,24 20,22.209139 20,20 C20,17.790861 21.790861,16 24,16 C26.209139,16 28,17.790861 28,20 C28,22.209139 26.209139,24 24,24 Z M24,22 C25.1045695,22 26,21.1045695 26,20 C26,18.8954305 25.1045695,18 24,18 C22.8954305,18 22,18.8954305 22,20 C22,21.1045695 22.8954305,22 24,22 Z" id="icon"></path>
+        </g>
+    </g>
+</svg>

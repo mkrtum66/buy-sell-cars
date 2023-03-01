@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>input-icon-base-right</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F8F8F9" offset="0%"></stop>
+            <stop stop-color="#EBEEF4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Assets-(Light-BG)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1410.000000, -206.000000)">
+        <g id="input-icon-base-right" transform="translate(1410.000000, 206.000000)">
+            <rect id="Base" fill="url(#linearGradient-1)" x="0" y="0" width="48" height="48"></rect>
+            <rect id="Line" fill="#DCE0E9" x="0" y="0" width="1" height="48"></rect>
+        </g>
+    </g>
+</svg>
